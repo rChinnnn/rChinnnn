@@ -6,7 +6,7 @@ I'm rChin, a full stack engineer, living in Taichung currently.
 
 ![rChinnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rChinnnn&show_icons=true&theme=dark#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rChinnnn&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rChinnnn&layout=donut-vertical&bg_color=0,001F3F,0d1117&text_color=9f9f9f)
 
 
 ## 📚 Tech Stack
@@ -36,6 +36,7 @@ Personal
 ┃ ┃ ┗ Vite, Webpack
 ┃ ┣ SaaS Services
 ┃ ┃ ┗ Zeabur
+┣ Continual growth...
 ```
 
 
