@@ -1,13 +1,17 @@
 ### Hi there 👋
-I'm rChin, a full stack engineer, living in Taichung currently.
-- 🌱 I’m currently learning React, Web3, Solidity
+I'm Darren, a full stack engineer, passionate about surfing and exploring new technologies.
+- 🌱 I’m currently learning React, Golang, Solidity
+- 🔗 [GitRoll Overall Rating: A](https://gitroll.io/result/JrItakAFARrszXnObGQe)
 
-## ⚡ Dashboard
+## Contribution
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rChinnnn&show_icons=true&theme=dark#gh-dark-mode-only" />
+</p>
 
-![rChinnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=rChinnnn&show_icons=true&theme=dark#gh-dark-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rChinnnn&layout=donut-vertical&bg_color=0,001F3F,0d1117&text_color=9f9f9f)
-
+## Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rChinnnn&layout=donut-vertical&bg_color=0,001F3F,0d1117&text_color=9f9f9f" />
+</p>
 
 ## 📚 Tech Stack
 ```md
@@ -24,7 +28,7 @@ Personal
 ┃ ┃ ┗ Websocket(Socket.io)
 ┗ Back-End
 ┃ ┣ Node.js(Express)
-┃ ┣ MSSQL
+┃ ┣ MS-SQL
 ┃ ┣ Electron.js
 ┃ ┣ Nitro Server
 ┃ ┣ MongoDB(Mongoose)
@@ -35,6 +39,7 @@ Personal
 ┃ ┣ Bundling & Build Tools
 ┃ ┃ ┗ Vite, Webpack
 ┃ ┣ SaaS Services
+┃ ┃ ┗ GCP/AWS
 ┃ ┃ ┗ Zeabur
 ┣ Continual growth...
 ```
